@@ -1,0 +1,38 @@
+.header{
+    border: 1px solid grey;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.First{
+    display: flex;        
+    justify-content: space-around;
+    align-items: center;
+    font-size:larger;
+    width: 145px;
+}
+.Second input{
+    height: 35px;
+    width: 80%;
+    background-color: whitesmoke;
+    border-radius: 6px;
+    border: none;
+}
+.Second{
+    width: 700px;
+    height: 65%; 
+}
+.Third{
+    display: flex;
+    width: 10%;
+    justify-content: space-around;
+    align-items: center;
+}
+.Fourth{
+    display: flex;
+    width: 10%;
+    height: 60%;
+    justify-content: space-around;
+    align-items: center;
+}
